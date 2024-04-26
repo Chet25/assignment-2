@@ -1,0 +1,6 @@
+DIN
+nexa light
+DM sans
+inter
+gotham rounded
+nunito
